@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @twoCone
 - 👀 I’m interested in flutter development
-- 🌱 I’m currently learning flutter
 - 📫 How to reach me @twoCone on telegram
 
 <!---
